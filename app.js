@@ -1,4 +1,4 @@
-// array = ['Owais Nawab','Sameer Nawab','Raza Islam','Rimshaa']
+// array = ['Owais Nawab','Sameer Nawab','Raza Islam']
 // let input = document.querySelector("input")
 // let addFriend = document.querySelector("btn")
 // let all = document.querySelector("name")
